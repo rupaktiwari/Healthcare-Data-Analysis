@@ -1,2 +1,2 @@
 # Healthcare-Data-Analysis
-Healthcare data analysis along with visualizations
+Medical Appointment Data Analysis (Descriptive not predictive): Consists of Univariate and Bivariate Analysis
